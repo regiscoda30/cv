@@ -1,4 +1,7 @@
-html
+html {
+background:url(banquise.jpg) no-repeat center top; 
+background-size: cover;
+}
 
 body {
 	margin: 20;
