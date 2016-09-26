@@ -4,10 +4,9 @@ background-size: cover;
 }
 
 body {
-	margin: 20;
+	margin: 20px;
 	padding: 0;
 	background-color: white;
-	background-image: banquise;
 	font-family: Verdana;
 	sans-serif;
 	font-size: 100%;
