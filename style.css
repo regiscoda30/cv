@@ -1,20 +1,23 @@
 html {
-background:url(banquise.jpg) no-repeat center top; 
-background-size: cover;
+
 }
 
 body {
+	background: url(code.jpg) fixed top; 
 	margin: 20px;
 	padding: 0;
-	background-color: white;
-	font-family: Verdana;
-	sans-serif;
+	font-family: Verdana; sans-serif;
 	font-size: 100%;
+	background-size: cover;
 	}
 
 
 
 h1 {
+	background-color: #008485;
+	color: white;
+	
+	padding: 10px;
 	font-size: 50px;
 	text-align: center;
 	text-decoration: underline;
@@ -27,30 +30,70 @@ h1 {
 }
 
 .presentation {
+	color: white;
+	border-radius: 10px;
 	border: 5px double;
 	font-weight: bold;
 	position: absolute;
 	top: 175px;
 	left: 20px;
+	padding: 10px;
+}
+
+.bouton1 {
+	border: groove black 5px;
+	border-radius:12px 0 12px 0;
+	background: #008485;
+	color:#fff;
+	font:bold 12px Verdana white;
+	padding:6px 0 6px 0;
+
 }
 
 .parcours {
+	color: white;
+	border-radius: 10px;
 	border: 5px double;
 	position: absolute;
 	top: 425px;
 	left: 20px;
+	padding: 10px;
+}
+
+.bouton2 {
+	border: groove black 5px;
+	border-radius:12px 0 12px 0;
+	background: #008485;
+	color:#fff;
+	font:bold 12px Verdana white;
+	padding:6px 0 6px 0;
 }
 
 .diplome {
+	color: white;
+	border-radius: 10px;
 	border: 5px double;
 	position: absolute;
-	top: 775px;
+	top: 800px;
 	left: 20px;
+	padding: 10px;
+}
+
+.bouton3 {
+	border: groove black 5px;
+	border-radius:12px 0 12px 0;
+	background: #008485;
+	color:#fff;
+	font:bold 12px Verdana white;
+	padding:6px 0 6px 0;
 }
 
 .passion {
+	color: white;
+	border-radius: 10px;
 	border: 5px double;
 	position: absolute;
-	top: 950px;
+	top: 1000px;
 	left: 20px;
+	padding: 10px;
 }
